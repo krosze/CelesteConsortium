@@ -1,0 +1,65 @@
+*{
+    font-family: 'Laila', serif;
+}
+
+body{
+    background-color: #152632;
+}
+.navbar{
+    background-color: #152632;
+    font-size: 1rem;
+    color: #5E7785;
+}
+
+.j1{
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 120px 0px;
+}
+
+.j1 h1{
+    font-weight: bolder;
+    font-size: 4rem;
+    text-align: center;
+    color: white;
+}
+
+.j1 p{
+    font-size:1rem;
+    text-align: center;
+    color: white;
+    margin: 3rem;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: white;
+    
+}
+
+.j2{
+    background-color: #173446;
+    text-align: center;
+}
+
+.j2 h1{
+    font-size: 2rem;
+    margin: -2rem auto 1.5rem auto;
+}
+
+.btn-primary{
+    background-color: #2A546B;
+    border-color:  #2A546B;
+    border-radius: 2rem;
+}
+
+.btn-primary:hover{
+    background-color: goldenrod;
+    border-color:  goldenrod;
+    border-width: 4px;
+    
+}
+
